@@ -1,0 +1,14 @@
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\bin\Debug\net8.0\Com_math_lab_8.exe
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\bin\Debug\net8.0\Com_math_lab_8.deps.json
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\bin\Debug\net8.0\Com_math_lab_8.runtimeconfig.json
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\bin\Debug\net8.0\Com_math_lab_8.dll
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\bin\Debug\net8.0\Com_math_lab_8.pdb
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.dll
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\refint\Com_math_lab_8.dll
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.pdb
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\Com_math_lab_8.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\Com_math_lab_8\Com_math_lab_8\obj\Debug\net8.0\ref\Com_math_lab_8.dll
